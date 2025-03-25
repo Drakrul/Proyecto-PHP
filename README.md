@@ -12,3 +12,6 @@ Visual Studio Code
 
 Pasos para su ejecucion:
 ingresar en un navegador de internet la IP de PHP donde se guarda el proyecto
+
+Datos del autor:
+Marcos Josue Diaz Reyes, 25000156@galileo.edu, carnet 25000156
